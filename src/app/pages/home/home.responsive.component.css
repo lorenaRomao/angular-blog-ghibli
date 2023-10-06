@@ -1,0 +1,11 @@
+@media screen and (max-width:885px) {
+    .container_articles{
+        margin-top: 45px;
+    
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+   
+}
+

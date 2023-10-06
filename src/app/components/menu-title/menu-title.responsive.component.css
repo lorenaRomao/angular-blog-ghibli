@@ -1,0 +1,17 @@
+@media screen and (max-width:885px) {
+    .container_menu_title {
+        width: 575px;
+        
+    }
+    .container_menu_title > h1 {
+        font-size: 80px;
+        display: flex;
+        justify-content: flex-start;
+        
+    }
+}
+@media screen and (max-width:610px) {
+    .container_menu_title > h1 {
+        font-size: 60px;
+    }
+}
